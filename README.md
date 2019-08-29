@@ -9,5 +9,7 @@
 
 ### Performing Matrix Multiplication
 
+Since the code to perform matrix multiplication is divided in two files, to perform matrix multipkication do this:
+
 + Type `javac MatrixMultiplication.java`.
 + Type `java Multiply`.
