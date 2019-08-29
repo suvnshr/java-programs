@@ -1,4 +1,4 @@
-# matrix-multiplication-java
+# Java Programs
 
 ## To run this files on your system, follow this steps:
 
