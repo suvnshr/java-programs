@@ -2,8 +2,8 @@ class Palindrome {
 	
 	public static void main(String[] args) {
 		
-		String str1 = "Madam";
-    String str2 = "Hello World";
+		String str1 = "madam";
+    		String str2 = "hello world";
 	
 		if(isPalindrome(str1)) {
 			System.out.println(str1 + " is palindrome.");
